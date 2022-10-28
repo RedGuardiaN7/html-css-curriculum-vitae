@@ -11,9 +11,16 @@ h1 {
 
 .background-grey {
     background-color: rgba(128, 128, 128, 0.233);
+    
 }
 
 div {
     width: 50%;
     margin: auto;
+}
+
+hr {
+    background-color: orange;
+    height: 2px;
+    border: none;
 }
