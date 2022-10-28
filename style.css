@@ -6,12 +6,12 @@ img {
 }
 
 h1 {
-    text-align: center;  
+    text-align: center;
 }
 
 .background-grey {
     background-color: rgba(128, 128, 128, 0.233);
-    
+
 }
 
 div {
@@ -27,7 +27,7 @@ hr {
 
 h2 {
     margin-left: 12px;
-    color: rgb(226, 147, 0); 
+    color: rgb(226, 147, 0);
 }
 
 h3 {
@@ -36,7 +36,7 @@ h3 {
 }
 
 p {
-    margin-left: 12px; 
+    margin-left: 12px;
 }
 
 .final-text {
