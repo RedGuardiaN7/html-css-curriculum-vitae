@@ -38,3 +38,8 @@ h3 {
 p {
     margin-left: 12px; 
 }
+
+.final-text {
+    text-align: center;
+    font-size: small;
+}
